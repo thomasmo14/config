@@ -1,3 +1,4 @@
 {
-  "langs": ["En", "HU"]
+  "langs": ["en", "hu"],
+  "default": "en"
 }
